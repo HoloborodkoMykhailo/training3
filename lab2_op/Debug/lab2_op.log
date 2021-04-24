@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Mike\source\repos\lab2_op\lab2_op\Source.cpp(29,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Mike\source\repos\lab2_op\lab2_op\Source.cpp(44,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2_op.vcxproj -> C:\Users\Mike\source\repos\lab2_op\Debug\lab2_op.exe
