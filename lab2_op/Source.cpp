@@ -99,9 +99,9 @@ int main()
 	{
 		for (int i = 0; i < kilk; i++)
 		{
-			fOut << mas_teams[i] << ";" << result[i] << "\n";
+			fOut << mas_teams[i] << "  - " << result[i] << "\n";
 		}
-		fOut << /*"---------------------------------------" << "\n\t\t\t*/"Winner;" << mas_teams[0];
+		fOut << "---------------------------------------" << "\n\t\t\tWinner;" << mas_teams[0];
 	}
 	fOut.close();
 }
